@@ -1,7 +1,3 @@
-//
-// This is all of the Counter-Strike 2 shit.
-//
-
 // This allows the entities to show up in the Tool Properties section of hammer.
 @EntityGroup "Counter-Strike 2"
 
